@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque&family=Merriweather:wght@300;400;700;900&display=swap');
+
+/**** RESET ****/
+* {
+    box-sizing: border-box;
+}
+html {
+    background-color: #A8E0FF;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+h1, h2, h3, ul {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+input {
+    outline: none;
+}
+button {
+    cursor: pointer;
+}
